@@ -1,0 +1,35 @@
+#MENU 
+{
+	background: black;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+	padding: 0;
+}
+#MENU a:link,#MENU a:visited 
+{
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: medium;
+}
+#MENU a:hover 
+{
+	background-color: cyan;
+	color: black;
+}
+
+#GALERIA a:link,#GALERIA a:visited 
+{
+	/*background-color: black;*/
+	border: 1px solid black;
+}
+#GALERIA a:hover
+{
+	/*background-color: cyan;*/
+	border: 1px solid cyan;
+}
