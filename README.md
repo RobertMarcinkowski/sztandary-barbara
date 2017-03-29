@@ -1,2 +1,2 @@
 # sztandary-barbara
-Strona internetowa sztandary-barbara.pl
+Strona internetowa http://sztandary-barbara.pl/
